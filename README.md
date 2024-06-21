@@ -26,6 +26,11 @@ Forcing Discriminator to Generalize: By reducing the reliance on specific featur
 
 >The final code is in FINALL2.ipynb
 >stack_gans is a file acessed during execution of FINALL2.ipynb and is used for data augmentation
+>The results of the first stage-
+>- ![Screenshot of running code.](stage1.jpg)
+>- ![Screenshot of running code.](stage1_part1.jpg)
+>- ![Screenshot of running code.](stage1_part2.jpg)
+>- ![Screenshot of running code.](stage1_part3.jpg)
 >We have only attached results from our first stage, as second stage was giving a white screen like so -
 
 >A screenshot of the code in action 
