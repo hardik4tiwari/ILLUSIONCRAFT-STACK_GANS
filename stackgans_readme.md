@@ -29,6 +29,6 @@ Forcing Discriminator to Generalize: By reducing the reliance on specific featur
 >We have only attached results from our first stage, as second stage was giving a white screen like so -
 
 >A screenshot of the code in action 
->- ![Screenshot of running code.](stage2.png)
+>- ![Screenshot of running code.](stage2.jpg)
 
 >We have also attached saved trained models for G1,G2,D1,D2
