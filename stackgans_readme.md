@@ -23,8 +23,12 @@ The initial learning rate ratio between the discriminator and generator was high
 Forcing Discriminator to Generalize: By reducing the reliance on specific features or patterns, dropout encourages the discriminator to learn more generalizable features that are relevant across different samples. This prevents the discriminator from memorizing the training data and helps it generalize better to unseen data.
 
 >## Instructions for this repo-
+
 >The final code is in FINALL2.ipynb
 >stack_gans is a file acessed during execution of FINALL2.ipynb and is used for data augmentation
 >We have only attached results from our first stage, as second stage was giving a white screen like so -
->
+
+>A screenshot of the code in action 
+>- ![Screenshot of running code.](stage2.png)
+
 >We have also attached saved trained models for G1,G2,D1,D2
