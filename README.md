@@ -1,10 +1,15 @@
 >## Notebook Structure(final_code.ipynb)
 Data Loading: Code to load and preprocess text data.
+
 Model Definition: Definitions for the GAN models (Stage-I and Stage-II).
+
 Training Loop: Code to train the GAN models.
+
 Text Embeddings: Functions to obtain text embeddings using GloVe.
+
 Image Generation: Function to generate images from text and display them.
-Results
+
+Results:
 The generated images can be viewed directly within the notebook after running the corresponding cells. The quality of the images will improve with more training epochs and fine-tuning of the model parameters.
 
 >## Problems we faced 
