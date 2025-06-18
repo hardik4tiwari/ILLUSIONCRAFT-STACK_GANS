@@ -37,7 +37,7 @@ Forcing Discriminator to Generalize: By reducing the reliance on specific featur
 
 >- ![Screenshot of running code.](photos/stage1.jpg)
 
->- ![Screenshot of running code.](photos/stage1_part1.jpg)
+>- ![Screenshot of running code.](photos/stage1_part4.jpg)
 
 >- ![Screenshot of running code.](photos/stage1_part2.jpg)
 
